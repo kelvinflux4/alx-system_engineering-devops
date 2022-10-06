@@ -1,2 +1,2 @@
 #!/bin/bash
-hdguj
+telnet towel.blinkenlights.nl
