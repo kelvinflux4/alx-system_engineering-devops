@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello, world
+nano "Hello,world".sh
