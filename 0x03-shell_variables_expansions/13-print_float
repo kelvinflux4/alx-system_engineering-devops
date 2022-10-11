@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $number.00
+printf %f.2fn $NUM
